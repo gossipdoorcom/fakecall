@@ -65,5 +65,5 @@ We may periodically update this Privacy Policy. Any modifications will be reflec
 
 ## 9. Contact Us
 If you have any questions, suggestions, or concerns regarding this Privacy Policy or data practices, please contact us:
-- **Email:** `support@gossipdoor.com`  
+- **Email:** `gossipdoor.com@gmail.com`  
 - **Application:** Fake Call - Missed Call Escape (`com.gossipdoor.fakecall`)
